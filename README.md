@@ -6,3 +6,6 @@
 # smart_contract
 здесь в основном отлько смарт-контракты , предназначенный для EVM 
 разработан на Solidity
+
+
+npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
